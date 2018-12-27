@@ -1,0 +1,18 @@
+Correction examen intra : 
+
+1. B
+2. C
+3. C 
+4. A
+5. A
+6. D
+7. D
+8. C
+9. B
+10. B
+11. 23 semaines.
+14. Alonger la duree du projet.
+15.
+	Un serveur : 14000 (* 4) + (200 *4) = 2200 * 4
+	             56000 + 800 = 8800 
+				       m = 7m
